@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package org.juanitodread.designpatterns;
 
 /**
@@ -10,6 +6,6 @@ package org.juanitodread.designpatterns;
  */
 public class Main {
     public static void main(String... args){
-        System.out.println("Hello world");
+        System.out.println("Cada patrón de diseño cuenta con su método main.");
     }
 }
